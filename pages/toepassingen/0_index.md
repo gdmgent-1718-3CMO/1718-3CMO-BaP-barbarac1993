@@ -1,11 +1,11 @@
 ---
 # layout: vertical
-permalink: logo/
+permalink: toepassingen/
 published: true
 title: Algemene info
 ---
 
-# Algemene info
+# Algemene info toepassingen
 
 ## 2 varianten
 
