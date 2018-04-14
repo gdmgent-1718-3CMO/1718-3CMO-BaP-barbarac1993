@@ -7,33 +7,29 @@ title: Website
 
 # Website
 
-## Desktop
+## Algemene website
 
-![standaardlogo](../images/aliriosolutions/logo_standaard.png){:class="w-100"}
+De website van Alirio Solutions vzw is een one page website.
+Op de algemene website staat er een link naar de shop.
+De shop is een aparte site waar tuingereedschap, zaadjes, ... aangeschaft kunnen worden.
+Er moet redelijk veel informatie op de website komen omdat Alirio Solutions uit verschillende delen bestaat.
+Maar door de one page website kan de gebruiker makkelijker gewoon naar beneden scrollen,
+zodat snel duidelijk is welke informatie relevant is.
+Bovendien is er een navigatie waarbij direct naar de gevraagde informatie gegaan kan worden.
 
-## Tablet
+![Responsive website](../images/aliriosolutions/toepassingen_website1.png){:class="w-100"}
 
-![negatief logo](../images/aliriosolutions/logo_negatief.png){:class="w-100"}
+## Shop
 
-## Mobiel
+![Shop](../images/aliriosolutions/toepassingen_shop1.png){:class="w-100"}
 
-Het is zeer belangrijk dat de <mark>witruimte</mark> rond het logo gerespecteerd wordt.
-Zoals te zien is hieronder, is de witruimte aan allevier de zijden even groot als de <mark>x-hoogte</mark> van het woord 'solutions' in het logo. Hierbij moet wel het volgende opgemerkt worden: de witruimte aan de bovenste zijde van het logo wordt gemeten vanaf de letters van 'Alirio' en niet vanaf het icoon (het kiempje of de stip op de laatste i van Alirio).
+## Design
 
-![witruimte logo](../images/aliriosolutions/logo_witruimte.png){:class="w-100"}
+Dit is het design voor de desktopversie van de website.
+Het is een responsive website, dus de website is ook perfect toegankelijk op mobiel of tablet.
+Om het design volledig te zien van zowel de algemene website als de shop (in desktop, tablet en mobiel),
+kunt u dit downloaden bij <mark>downloads</mark>.
 
-## Icoon
+![Desktop website](../images/aliriosolutions/toepassingen_website2.png){:class="w-100"}
 
-Het icoon (het kiempje zonder steeltje) kan apart gebruikt worden, maar enkel in de vaste kleuren (lichtgroen, donkergroen of wit).
-Voor gedetailleerdere informatie omtrent het kleurgebruik, ga naar <mark>'Kleur'</mark>.
-Een voorbeeld van een grafische toepassing waarbij enkel het icoon gebruikt wordt (en dus niet het volledige logo) is de achterkant van het naamkaartje.
-
-![naamkaartje](../images/aliriosolutions/icoon_voorbeeld1.png){:class="w-100"}
-
-Ook kan het kiempje met steeltje apart gebruikt worden. Een voorbeeld waarbij dit zo toegepast wordt, is de website van Alirio Solutions. Hieronder is een deel van de onepage te zien waarop het icoon met steeltje gebruikt wordt.
-
-![website](../images/aliriosolutions/icoon_voorbeeld2.png){:class="w-100"}
-
-## Formaat?
-
-## Positie: bv tov nieuwsbrief (stationery)
+## Stijlelementen website?

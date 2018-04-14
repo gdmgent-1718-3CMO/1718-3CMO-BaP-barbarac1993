@@ -25,7 +25,7 @@ Hieronder zijn enkele voorbeelden te zien van wat <mark>niet</mark> gedaan mag w
 
 Het is belangrijk om rekening te houden met het kleur van de achtergrond.
 Het logo moet steeds duidelijk zichtbaar blijven.
-Het is verboden om het standaardlogo op een niet-witte achtergrond te zetten.
+Het is verboden om het standaardlogo op een niet-witte achtergrond te zetten, behalve op een achtergrond die één van de secundaire kleuren heeft.
 Het standaardlogo wordt gebruikt op een witte achtergrond.
 Dit is mogelijk door het beperkt kleurenpallet die bepaald werd voor deze huisstijl.
 Bij een donkere achtergrond, moet gebruikgemaakt worden van het negatief logo.

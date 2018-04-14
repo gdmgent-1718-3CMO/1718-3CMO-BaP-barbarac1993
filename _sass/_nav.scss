@@ -26,6 +26,21 @@
 
  }
 
+ nav.navbar .navbar-nav .nav-link:hover {
+     background-color: $mycolor-3;
+     color: $mycolor-2;
+ }
+
+ nav.navbar .dropdown-menu {
+     border: none;
+     background-color: $mycolor-4;
+     color: $mycolor-1;
+ }
+
+ .dropdown-item.active, .dropdown-item:active {
+     background-color: $mycolor-3;
+ }
+
  /* table of contents
  --------------------------- */
  #toc {
