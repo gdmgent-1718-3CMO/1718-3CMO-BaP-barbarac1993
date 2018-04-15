@@ -25,10 +25,10 @@ Zoals te zien is hieronder, is de witruimte aan allevier de zijden even groot al
 ## Icoon
 
 Het icoon (het kiempje zonder steeltje) kan apart gebruikt worden, maar enkel in de vaste kleuren (lichtgroen, donkergroen of wit).
-Voor gedetailleerdere informatie omtrent het kleurgebruik, ga naar <mark>'Kleur'</mark>.
+Voor gedetailleerdere informatie omtrent het kleurgebruik, ga naar [Kleur](../kleur/index.html).
 Een voorbeeld van een grafische toepassing waarbij enkel het icoon gebruikt wordt (en dus niet het volledige logo) is de achterkant van het naamkaartje.
 
-![naamkaartje](../images/aliriosolutions/icoon_voorbeeld1.png){:class="w-100"}
+![naamkaartje](../images/aliriosolutions/toepassingen_naamkaartje2.png){:class="w-100"}
 
 Ook kan het kiempje met steeltje apart gebruikt worden. Een voorbeeld waarbij dit zo toegepast wordt, is de website van Alirio Solutions. Hieronder is een deel van de onepage te zien waarop het icoon met steeltje gebruikt wordt.
 
@@ -36,4 +36,3 @@ Ook kan het kiempje met steeltje apart gebruikt worden. Een voorbeeld waarbij di
 
 ## Formaat?
 
-## Positie: bv tov nieuwsbrief (stationery)

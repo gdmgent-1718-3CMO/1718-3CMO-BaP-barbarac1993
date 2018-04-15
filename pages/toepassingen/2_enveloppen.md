@@ -17,3 +17,9 @@ Een enveloppe met venster, aflopend en een enveloppe zonder venster, niet aflope
 ## Enveloppe zonder venster
 
 ![Enveloppe zonder venster](../images/aliriosolutions/toepassingen_enveloppe2.png){:class="w-100"}
+
+## Download
+
+Klik op onderstaande link om de bestanden van de enveloppes te downloaden.
+
+<a href="../downloads/enveloppe.zip">Download enveloppes</a>

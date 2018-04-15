@@ -26,10 +26,26 @@ Bovendien is er een navigatie waarbij direct naar de gevraagde informatie gegaan
 ## Design
 
 Dit is het design voor de desktopversie van de website.
-Het is een responsive website, dus de website is ook perfect toegankelijk op mobiel of tablet.
+Het is een responsive website, dus de website moet ook perfect toegankelijk zijn op mobiel of tablet.
 Om het design volledig te zien van zowel de algemene website als de shop (in desktop, tablet en mobiel),
-kunt u dit downloaden bij <mark>downloads</mark>.
+kunt u dit downloaden bij <mark>download</mark>.
 
 ![Desktop website](../images/aliriosolutions/toepassingen_website2.png){:class="w-100"}
 
-## Stijlelementen website?
+## Functionaliteiten website
+
+![Functionaliteiten website](../images/aliriosolutions/toepassingen_website_functionaliteiten.png){:class="w-100"}
+
+## Functionaliteiten shop
+
+![Functionaliteiten shop](../images/aliriosolutions/toepassingen_shop_functionaliteiten.png){:class="w-100"}
+
+## Buttons
+
+![Buttons](../images/aliriosolutions/toepassingen_website_buttons.png){:class="w-100"}
+
+## Download
+
+Klik op onderstaande link om de bestanden van de website te downloaden.
+
+<a href="../downloads/website.zip">Download website</a>

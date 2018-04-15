@@ -12,3 +12,9 @@ title: Digitale nieuwsbrief
 ## Design
 
 ![Digitale Nieuwsbrief](../images/aliriosolutions/toepassingen_digitalenieuwsbrief2.png){:class="w-100"}
+
+## Download
+
+Klik op onderstaande link om de bestanden van de digitale nieuwsbrief te downloaden.
+
+<a href="../downloads/digitalenieuwsbrief.zip">Download digitale nieuwsbrief</a>

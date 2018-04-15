@@ -51,6 +51,8 @@ body {
 }
 
 footer {
+    font-weight: $font-weight-light;
+    font-size: 11pt;
     background-color: $mycolor-2;
     color: $color-white;
     a {
