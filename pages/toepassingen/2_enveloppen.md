@@ -22,4 +22,4 @@ Een enveloppe met venster, aflopend en een enveloppe zonder venster, niet aflope
 
 Klik op onderstaande link om de bestanden van de enveloppes te downloaden.
 
-<a href="../downloads/enveloppe.zip">Download enveloppes</a>
+<a href="https://studentarteveldehsbe-my.sharepoint.com/:u:/g/personal/barbcour_student_arteveldehs_be/EaDzlx8fpEVPuIcJK9s6UMkBeCg82r5F8M1wSPS4SqPB-Q?e=lHpMho">Download enveloppes</a>

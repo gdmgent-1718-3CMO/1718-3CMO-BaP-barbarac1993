@@ -17,4 +17,4 @@ title: Digitale nieuwsbrief
 
 Klik op onderstaande link om de bestanden van de digitale nieuwsbrief te downloaden.
 
-<a href="../downloads/digitalenieuwsbrief.zip">Download digitale nieuwsbrief</a>
+<a href="https://studentarteveldehsbe-my.sharepoint.com/:u:/g/personal/barbcour_student_arteveldehs_be/EXpPwf8MrotMkOPhzEXE64IBjzToyT2fNuQp9fZZWQlMBQ?e=zMjWwa">Download digitale nieuwsbrief</a>

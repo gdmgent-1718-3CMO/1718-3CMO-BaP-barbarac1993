@@ -13,4 +13,4 @@ title: Totebag
 
 Klik op onderstaande link om de bestanden van de totebag te downloaden.
 
-<a href="../downloads/totebag.zip">Download totebag</a>
+<a href="https://studentarteveldehsbe-my.sharepoint.com/:u:/g/personal/barbcour_student_arteveldehs_be/EXPCqueZPPRLs42PsftqItsBp8YxFHU1Ew9GP9-DePxmoA?e=XYHsqH">Download totebag</a>

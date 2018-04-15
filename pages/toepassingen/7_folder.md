@@ -15,4 +15,4 @@ title: Folder
 
 Klik op onderstaande link om de bestanden van de folder te downloaden.
 
-<a href="../downloads/folder.zip">Download folder</a>
+<a href="https://studentarteveldehsbe-my.sharepoint.com/:u:/g/personal/barbcour_student_arteveldehs_be/ESBPeLRHbx9ClcOxu62Rq84Bv9IqK8noWXq5LFU6LNH8fg?e=LdKOzg">Download folder</a>

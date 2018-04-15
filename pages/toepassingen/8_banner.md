@@ -13,4 +13,4 @@ title: Banner
 
 Klik op onderstaande link om de bestanden van de banner te downloaden.
 
-<a href="../downloads/banner.zip">Download banner</a>
+<a href="https://studentarteveldehsbe-my.sharepoint.com/:u:/g/personal/barbcour_student_arteveldehs_be/EfHGfWJ4sTVDiPcqve2XhuMB5l8P7CtaQTBpSHbb0pdFNg?e=EO13Ww">Download banner</a>

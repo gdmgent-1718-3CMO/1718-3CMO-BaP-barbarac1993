@@ -48,4 +48,4 @@ kunt u dit downloaden bij <mark>download</mark>.
 
 Klik op onderstaande link om de bestanden van de website te downloaden.
 
-<a href="../downloads/website.zip">Download website</a>
+<a href="https://studentarteveldehsbe-my.sharepoint.com/:u:/g/personal/barbcour_student_arteveldehs_be/EWkAtWntvfBBn2fRWk7Ef3YBnF4DFCxf1RnTywNwnG3k4g?e=AqhRF1">Download website</a>

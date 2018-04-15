@@ -29,4 +29,4 @@ Opmerking: het puntje op de tweede i van 'Alirio' (het kiempje) telt niet mee bi
 
 Klik op onderstaande link om de bestanden van het briefhoofd te downloaden.
 
-<a href="../downloads/briefhoofd.zip">Download briefhoofd</a>
+<a href="https://studentarteveldehsbe-my.sharepoint.com/:u:/g/personal/barbcour_student_arteveldehs_be/EdvMh45yuFFGnG1FXDMM5NgBeZZ1kBjBja-C1E67xykjiQ?e=tg7R4n">Download briefhoofd</a>

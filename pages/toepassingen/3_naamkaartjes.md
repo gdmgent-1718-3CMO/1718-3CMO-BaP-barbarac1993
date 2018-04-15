@@ -13,4 +13,4 @@ title: Naamkaartjes
 
 Klik op onderstaande link om de bestanden van de naamkaartjes te downloaden.
 
-<a href="../downloads/naamkaartje.zip">Download naamkaartjes</a>
+<a href="https://studentarteveldehsbe-my.sharepoint.com/:u:/g/personal/barbcour_student_arteveldehs_be/ESrJq-0mE5xDgqfCsy5MO1EBUo75roQlg-K6SSC0Tpp1wQ?e=GW33NT">Download naamkaartjes</a>

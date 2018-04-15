@@ -23,3 +23,10 @@ In het standaardlogo wordt groen gebruikt. Dit omdat Alirio Solutions een initia
 
 De tekst 'Alirio' in het logo bestaan uit zelfontworpen speelse letters. Dit omdat het tuinieren zelf en de activiteiten die door Alirio Solutions georganiseerd worden, naast het educatieve aspect, ook speels en leuk moeten zijn. Op deze manier kan men aan de hand van ontspannende activiteiten bijleren.
 De tekst 'solutions' is in het font Quicksand. Meer informatie in verband met de typografie in de verschillende grafische toepassingen, is te vinden onder [Typografie](../typografie/index.html).
+
+## Download
+
+Klik op onderstaande link om de bestanden van het logo te downloaden.
+
+<a href="https://studentarteveldehsbe-my.sharepoint.com/:u:/g/personal/barbcour_student_arteveldehs_be/EVkfiu5k_B1MkgRUmV-ZmeEBDJxEvz8g6d8zhJbDsxKWPw?e=RPL7qY">Download logo</a>
+
