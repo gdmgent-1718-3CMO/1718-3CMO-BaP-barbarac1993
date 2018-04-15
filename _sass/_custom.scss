@@ -5,6 +5,20 @@
     border: none;
 }
 
+a {
+  color: $mycolor-3;
+  border-bottom: none;
+}
+
+a:hover {
+  color: $mycolor-3;
+  border-bottom: solid 2px $mycolor-4;
+}
+
+mark {
+  background-color: $mycolor-4;
+}
+
 /* Fonts
 ---------------------------------------------
 */
