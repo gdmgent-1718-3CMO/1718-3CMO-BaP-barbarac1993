@@ -13,4 +13,4 @@ title: Presentatie
 
 Klik op onderstaande link om de bestanden van de PowerPoint-template te downloaden.
 
-<a href="https://studentarteveldehsbe-my.sharepoint.com/:u:/g/personal/barbcour_student_arteveldehs_be/EUTWeZf4G2hPpAHw24LHV30BM1arGTPnMhvoSsDyvMpYsw?e=nYjVzY">Download PowerPoint-template</a>
+<a href="https://studentarteveldehsbe-my.sharepoint.com/:f:/g/personal/barbcour_student_arteveldehs_be/EsVrX6vUTiJJi6HvOwaFajkB6T3wlQFfaXXyup-Ofb_KKA?e=fXGbSq">Download PowerPoint-template</a>

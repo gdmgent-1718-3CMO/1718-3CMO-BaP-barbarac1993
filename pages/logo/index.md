@@ -28,5 +28,5 @@ De tekst 'solutions' is in het font Quicksand. Meer informatie in verband met de
 
 Klik op onderstaande link om de bestanden van het logo te downloaden.
 
-<a href="https://studentarteveldehsbe-my.sharepoint.com/:u:/g/personal/barbcour_student_arteveldehs_be/EVkfiu5k_B1MkgRUmV-ZmeEBDJxEvz8g6d8zhJbDsxKWPw?e=RPL7qY">Download logo</a>
+<a href="https://studentarteveldehsbe-my.sharepoint.com/:f:/g/personal/barbcour_student_arteveldehs_be/EmbZ0a3FZtVMh_1hN1JgIl0BRb_GWpVpCJdDx6g_DjFjWg?e=M2LkVx">Download logo</a>
 

@@ -34,5 +34,3 @@ Ook kan het kiempje met steeltje apart gebruikt worden. Een voorbeeld waarbij di
 
 ![website](../images/aliriosolutions/icoon_voorbeeld2.png){:class="w-100"}
 
-## Formaat?
-

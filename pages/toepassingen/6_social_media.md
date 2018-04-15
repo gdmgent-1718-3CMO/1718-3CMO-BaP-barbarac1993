@@ -19,4 +19,4 @@ title: Social media
 
 Klik op onderstaande link om de bestanden van de social media te downloaden.
 
-<a href="https://studentarteveldehsbe-my.sharepoint.com/:u:/g/personal/barbcour_student_arteveldehs_be/Ebxcqjg8vINCu3-UVSyWEFgB1dNkfKFShLWGJnV5PJf6VA?e=b4eFp6">Download social media</a>
+<a href="https://studentarteveldehsbe-my.sharepoint.com/:f:/g/personal/barbcour_student_arteveldehs_be/ErIiLa6fdbRMpaQ5Y-xhMHgBhg2wh6nj9j7JRCBn3tpYeQ?e=z7dCMI">Download social media</a>
